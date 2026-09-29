@@ -1,1 +1,93 @@
+# Banking Customer Analytics Dashboard
+
+## Project Overview
+
+The Banking Customer Analytics Dashboard is an Excel-based data analysis and visualization project designed to analyze banking customer information, loan distribution, customer demographics, employment profiles, credit scores, and existing customer status.
+
+The dashboard converts raw banking customer data into an interactive and easy-to-understand business reporting dashboard. It helps identify customer patterns and provides a consolidated view of important banking metrics.
+
+## Key Metrics
+
+The dashboard includes the following key performance indicators:
+
+* Total Customers
+* Total Loan Amount
+* Total Number of Cities
+* Loan Amount by Gender
+* Loan Amount by State
+* Loan Amount by Occupation
+* Customer Distribution by Employment Profile
+* Customer Distribution by Credit Score Band
+* Existing vs New Customers
+
+## Dashboard Analysis
+
+### 1. Customer by Employment Profile
+
+Analyzes the number of customers across different employment profiles such as Banker, Business Owner, Contractor, Doctor, Farmer, Graphic Designer, Independent Consultant, Photographer, Shopkeeper, Software Engineer, Student, Teacher, and Writer.
+
+### 2. Total Loan by Gender
+
+Shows the distribution of total loan amounts among different genders, allowing comparison of loan exposure across customer groups.
+
+### 3. State-Wise Loan Amount
+
+Provides a geographical analysis of loan amounts across Indian states. This helps understand which regions contribute to the overall loan portfolio.
+
+### 4. Credit Score Band by Customer
+
+Groups customers according to their credit score ranges and shows the number of customers in each band. This can help analyze the overall credit profile of the customer base.
+
+### 5. Existing Customer Analysis
+
+Shows the distribution between existing and non-existing customers. This provides an overview of the current customer base and potential new-customer segments.
+
+### 6. Occupation by Loan Amount
+
+Analyzes the total loan amount associated with different occupations to understand loan distribution across professional groups.
+
+## Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Excel Dashboard
+* Data Analysis
+* Data Visualization
+
+## Interactive Features
+
+The dashboard includes interactive filtering using slicers. Users can select different employment profiles and analyze how the dashboard metrics and visualizations change according to the selected filter.
+
+## Business Use Cases
+
+This dashboard can help banking teams:
+
+* Understand the customer base
+* Analyze loan distribution
+* Compare customer segments
+* Examine regional loan patterns
+* Analyze customer credit-score distribution
+* Identify differences across employment profiles
+* Understand existing and potential customer segments
+* Support data-driven reporting and decision-making
+
+## Project Objective
+
+The main objective of this project is to demonstrate how Excel can be used to transform banking customer data into an interactive reporting solution. The project focuses on data analysis, KPI reporting, customer segmentation, loan analysis, and business-oriented data visualization.
+
+## Skills Demonstrated
+
+* Data Cleaning
+* Data Analysis
+* Excel Pivot Tables
+* Pivot Charts
+* Slicers
+* KPI Development
+* Customer Segmentation
+* Loan Analysis
+* Data Visualization
+* Dashboard Design
+* Business Reporting
 
