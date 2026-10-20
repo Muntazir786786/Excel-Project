@@ -1,1 +1,82 @@
+# E-commerce Sales Performance & Customer Insights Dashboard Using Excel
 
+## Project Overview
+
+The E-commerce Sales Performance & Customer Insights Dashboard is a data analytics project developed using Microsoft Excel to analyze sales performance, customer purchasing patterns, product category performance, profitability, payment preferences, and product returns.
+
+The project transforms sales transaction data into meaningful business insights through an interactive dashboard featuring Key Performance Indicators (KPIs), PivotCharts, and category slicers. It provides a consolidated view of business performance, helping users explore sales trends, compare regional results, and understand customer demographics.
+
+## Project Objectives
+
+- Analyze total sales, profit, quantity sold, and customer count.
+- Monitor monthly sales trends and regional performance.
+- Compare sales across different product categories.
+- Evaluate payment method preferences and transaction amounts.
+- Analyze product return patterns.
+- Compare sales across customer age groups and genders.
+- Enable interactive data exploration through Excel slicers.
+
+## Key Performance Indicators (KPIs)
+
+The dashboard displays four primary business metrics:
+
+| KPI | Displayed Value |
+|---|---:|
+| Total Customers | 4,103 |
+| Total Quantity | 6,122 |
+| Total Sales | 153,019.38 |
+| Total Profit | 49,196.59 |
+
+*These values represent the dashboard state shown in the screenshot and may vary depending on the selected filters.*
+
+## Dashboard Features
+
+### 1. Regional Sales Analysis
+Visualizes the distribution of sales across Central, East, North, South, and West regions to support regional performance comparisons.
+
+### 2. Product Category Analysis
+Compares sales across Beauty, Electronics, Fashion, Grocery, Home, Sports, and Toys to identify stronger-performing categories.
+
+### 3. Monthly Sales Trends
+Tracks sales from January to December, helping users identify monthly fluctuations and potential seasonal patterns.
+
+### 4. Payment Method Analysis
+Compares transaction amounts across Cash on Delivery (COD), Credit Card, Debit Card, PayPal, UPI, and Wallet payment methods.
+
+### 5. Return Analysis
+Displays the proportion of returned and non-returned orders, providing an overview of product return patterns.
+
+### 6. Customer Demographic Analysis
+Compares sales across customer age groups, including Adult, Senior, Teenager, and Young Adult, with a gender-based breakdown.
+
+### 7. Interactive Category Slicer
+Allows users to filter the dashboard by product category and explore performance across different product segments.
+
+## Tools and Technologies
+
+- **Microsoft Excel:** Data analysis, calculations, and dashboard development.
+- **PivotTables:** Summarizing sales and customer data.
+- **PivotCharts:** Visualizing sales trends, regional performance, payment methods, and returns.
+- **Slicers:** Interactive filtering of dashboard data.
+- **Excel Formulas:** Supporting calculations and KPI reporting.
+- **Data Visualization:** Presenting key metrics and business trends in a consolidated dashboard.
+
+## Business Insights and Applications
+
+The dashboard helps users explore which product categories generate higher sales, how payment methods compare by transaction amount, how sales vary across regions and months, and how customer demographics relate to sales performance.
+
+These analyses can support business reporting, sales monitoring, product category evaluation, and customer behavior analysis.
+
+## Conclusion
+
+This project demonstrates the practical application of Microsoft Excel for data analysis, business intelligence, and interactive reporting. It showcases skills in data summarization, KPI development, PivotTables, PivotCharts, slicers, and dashboard design.
+
+The project highlights how structured sales data can be transformed into a clear and interactive reporting solution for business decision-making.
+
+**Project Category:** Data Analytics / Excel Dashboard
+
+**Domain:** E-commerce and Sales Analytics
+
+**Project Type:** Interactive Business Intelligence Dashboard
+
+**Primary Tool:** Microsoft Excel
